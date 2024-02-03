@@ -1,4 +1,4 @@
-# Project-II---Web-Scraping-And-Word-Frequency.-
+# Project-II - Web Scraping And Word Frequency.
 In this Project, scrape the data from a website using the Python package requests. Then extracted the words from the web data using BeautifulSoup. 
 For word counts and word frequency used the String and Integer Dictionary.
 
